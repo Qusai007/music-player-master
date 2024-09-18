@@ -1,0 +1,11 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:B2D18A5E-0C9F-4E34-A3BE-AA898F8ED624, OS:17.5, name:iPhone 15 Pro }
+{ platform:iOS Simulator, id:B2D18A5E-0C9F-4E34-A3BE-AA898F8ED624, OS:17.5, name:iPhone 15 Pro }
+** BUILD FAILED **
+
+
+The following build commands failed:
+	PhaseScriptExecution [CP-User]\ [Hermes]\ Replace\ Hermes\ for\ the\ right\ configuration,\ if\ needed /Users/qusai/Library/Developer/Xcode/DerivedData/musicplayer-gxacbduclzwjmjffyubzqfmkhjkk/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/hermes-engine.build/Script-46EB2E00020840.sh (in target 'hermes-engine' from project 'Pods')
+	PhaseScriptExecution [CP-User]\ Generate\ Specs /Users/qusai/Library/Developer/Xcode/DerivedData/musicplayer-gxacbduclzwjmjffyubzqfmkhjkk/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React-rncore.build/Script-46EB2E00020820.sh (in target 'React-rncore' from project 'Pods')
+	Building workspace musicplayer with scheme musicplayer and configuration Debug
+(3 failures)
