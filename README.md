@@ -21,5 +21,7 @@ yarn install
 ## Run IOS
 
 ```bash
-npx expo run:ios
+npx expo run:ios 
+OR
+yarn expo start
 ```
